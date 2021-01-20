@@ -560,13 +560,13 @@ var BW = {
 };
 
 /* loaded by smart-asset */
-var l$B = require("./flags/IyJJVHJb.svg");
+var l$B = require("./flags/HUQhVfWI.svg");
 
 /* loaded by smart-asset */
-var m$B = require("./flags/bdpZHVoq.svg");
+var m$B = require("./flags/blXtepsj.svg");
 
 /* loaded by smart-asset */
-var s$B = require("./flags/ddRFjnIz.svg");
+var s$B = require("./flags/bMAjWPIL.svg");
 
 var BY = {
   l: l$B,
